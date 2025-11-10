@@ -60,8 +60,8 @@ customer-churn-prediction/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd customer-churn-prediction
+git clone https://github.com/benwin-dev/customer-churn-prediction-ann.git
+cd customer-churn-prediction-ann
 ```
 
 ### 2. Backend Setup
